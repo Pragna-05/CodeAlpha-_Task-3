@@ -1,1 +1,12 @@
-
+| Student_ID | Semester | Subject   | Marks |
+| ---------- | -------- | --------- | ----- |
+| S001       | Sem1     | Maths     | 78    |
+| S001       | Sem1     | Physics   | 72    |
+| S001       | Sem1     | Chemistry | 75    |
+| S001       | Sem2     | Maths     | 82    |
+| S001       | Sem2     | Physics   | 76    |
+| S001       | Sem2     | Chemistry | 80    |
+| S002       | Sem1     | Maths     | 65    |
+| S002       | Sem1     | Physics   | 68    |
+| S002       | Sem1     | Chemistry | 70    |
+| S002       | Sem2     | Maths     | 70    |
